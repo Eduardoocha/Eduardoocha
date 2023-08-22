@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<img height="150em" src="[https://user-images.githubusercontent.com/103541346/207719344-725d2008-eeab-4af8-8d2a-34c6159817b5.png](https://mail.google.com/mail/u/0?ui=2&ik=d886521103&attid=0.1&permmsgid=msg-a:r7367779217263375275&th=18a1f0f211d989fa&view=att&disp=safe&realattid=18a1ed7a10fda7fe2871)">
+<img height="150em" src="https://photos.app.goo.gl/7UbWiW4swKot9Sim9.png">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+e+Eduardo+Fagundes+Rocha;Eu+tenho+18+anos;Eu+sou+de+Bauru,+SP;E+estudo+Desinvolvimento+de+sistemas+no+Senac;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
