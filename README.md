@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<img aling="center" height="200em" src="https://github.com/Eduardoocha/Eduardoocha/blob/1473473c4b7a9cdffb3ea57cc87478d0aa6e1243/Screenshot_20221129-081340_Gmail.jpg">
+<div align="center"> 
+<img height="150em" src="tps://github.com/Eduardoocha/Eduardoocha/blob/1473473c4b7a9cdffb3ea57cc87478d0aa6e1243/Screenshot_20221129-081340_Gmail.jpg" >
+</div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+e+Eduardo+Fagundes+Rocha;Eu+tenho+18+anos;Eu+sou+de+Bauru,+SP;E+estudo+Desinvolvimento+de+sistemas+no+Senac;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
