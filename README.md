@@ -18,9 +18,11 @@
 
  <div align="center">  
    <h1 align="center">Redes Sociais</h1>
-     <a href = "mailto: work.luigi.fonseca@gmail.com">
+     <a href = "mailto: Eduardofagumdes198@gmail.com">
        <img width="30" src="gmail.svg">
-         <a href="https://www.instagram.com/Eduard0_0Rocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+        <a href = "https://www.instagram.com/Eduard0_0Rocha/">
+      <img width="25" src="instagram.png">
+    </a>
 </div> </a>
  
 ### Minhas skills:
