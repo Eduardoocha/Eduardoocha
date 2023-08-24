@@ -47,7 +47,7 @@
 
 ## Core Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardoocha&repo=automated-ingestion-data&theme=radical)](https://github.com/Eduardoocha/automated-ingestion-data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardoocha&repo=automated-ingestion-data&theme=radical)](https://github.com/Eduardoocha/Dev.git)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
